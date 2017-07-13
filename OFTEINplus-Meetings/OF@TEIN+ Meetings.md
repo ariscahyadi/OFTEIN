@@ -1,7 +1,9 @@
 # OF@TEIN/OF@TEIN+ Meetings
 ## OF@TEIN Collaborations Meeting @ University of Hong Kong, Hong Kong, 2016
 
-## Venue : Central Podium (CPD) 1.42 - University of Hongkong
+[Venue : Central Podium (CPD) 1.42 - University of Hongkong](http://www.maps.hku.hk/?type=Locations&id=195&lang=en&name=Central%20Podium%20Levels%20(CPD))
+
+link:http://www.maps.hku.hk/?type=Locations&id=195&lang=en&name=Central%20Podium%20Levels%20(CPD)[Venue : Central Podium (CPD) 1.42 - University of Hongkong] 
 
 ## Agenda
 
