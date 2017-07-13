@@ -6,7 +6,9 @@ OF@TEIN collaboration community was established to carry out “OF@TEIN: Toward 
 In order to enhance and expend the OF@TEIN collaboration community, an OF@TEIN+ project team from 12 countries has been formed with the following goals to establish OF@TEIN+ Open Consortium (2015~2016) based on existing OF@TEIN collaborators (i.e., 7 countries) and recruiting new collaborators from other countries, provide the TEIN community with the opportunity to play (“Experience”) with a shared SDN-Cloud and DataFarm Playground and establish OF@TEIN operation/support team and tools to operate OF@TEIN Playground and provide technical guidance/training while addressing/solving several targeted technical challenges;
 
 Following partners from existing OF@TEIN collaboration community will continue to participate in the proposed OF@TEIN+ project:
-[alt text](http://oftein.net/attachments/download/128/OF@TEIN%20Community.png)
+<img width="571" alt="of tein community" src="https://user-images.githubusercontent.com/30137669/28151827-0d0db8ea-67d8-11e7-854b-53355fa25bea.png">
+
+
 
 The overview diagram of OF@TEIN infrastructure, built through the collaborative effort of OF@TEIN partners, is depicted below: 
-[alt text](http://oftein.net/attachments/download/155/OF@TEIN-Infra.PNG)
+![of tein-infra](https://user-images.githubusercontent.com/30137669/28151763-b1ec8d10-67d7-11e7-90f0-35d3a7131a71.PNG)
