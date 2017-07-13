@@ -49,8 +49,9 @@ Tea/Coffee Break
       -   Goals, Actions Plan, and Tasks Distribution (All Participants)
 
 Closing Remarks
+![of tein-meeting-hk-2016-1](https://user-images.githubusercontent.com/30137669/28153882-c69643d6-67e2-11e7-8d36-06a5b8ae880f.jpg)
 
-OF@TEIN+ Meeting@PERN, Islamabad, Pakistan, 2015
+# OF@TEIN+ Meeting@PERN, Islamabad, Pakistan, 2015
 
 Agenda
 Day 1: (15th October 2015)
@@ -86,7 +87,7 @@ Day 3: (17th October 2015)
   -   Closing Session & Certificate Distribution
   -   Dinner at Marriott
 
-OF@TEIN+ Meeting@UM, Kuala Lumpur, Malaysia, 2015
+# OF@TEIN+ Meeting@UM, Kuala Lumpur, Malaysia, 2015
 
 Agenda
   -   OF@TEIN+: SmartX Distributed Cloud (Prof. Jongwon Kim - GIST, Korea)
